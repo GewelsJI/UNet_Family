@@ -54,13 +54,10 @@ def Convert(predict):
 
 
 if __name__ == '__main__':
-    test_dict = {"CAMO": '/media/dengpingfan/leone/dpfan/gepeng/Dataset/CAMO_Test/img',
-                 "COD10K": '/media/dengpingfan/leone/dpfan/gepeng/Dataset/COD10K/COD10K/img',
-                 "CPD1K": '/media/dengpingfan/leone/dpfan/gepeng/Dataset/CPD_Split/CPD1K/img',
-                 "CHAMELEON": '/media/dengpingfan/leone/dpfan/gepeng/Dataset/CHAMELEON/img'}
+    test_dict = {'dict_name': 'your_path'}
 
-    Simple(weight_path='./models/XNet/xnet_camouflage_baseline.h5',
-           img_path=test_dict["COD10K"],
+    Simple(weight_path='snapshots/save/pth',
+           img_path=test_dict["dict_name"],
            target_size=(256, 256),
            batch_size=1,
-           save_path="./results/XNet/COD10K")
+           save_path="your/save/path")

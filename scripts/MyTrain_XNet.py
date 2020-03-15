@@ -67,11 +67,11 @@ def simple(img_path=None,
 
 
 if __name__ == '__main__':
-    simple(img_path='/media/dengpingfan/leone/dpfan/gepeng/Dataset/3Dataset/img',
-           gt_path='/media/dengpingfan/leone/dpfan/gepeng/Dataset/3Dataset/gt',
+    simple(img_path='train/image/path',
+           gt_path='train/gt/path',
            batchSize=7,
            target_size=(256, 256),
            epoch=30,
            lr=3e-4,
            steps_per_epoch=663,
-           model_save_path='./models/XNet/xnet_camouflage_baseline.h5')
+           model_save_path='./snapshot/save/path')

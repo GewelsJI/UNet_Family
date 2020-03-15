@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="009bd02c-575a-4d1f-a183-75e2ba6f945f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-Ori.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_UNetPlusPlus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/MyTest_XNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/MyTest_XNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/MyTrain_XNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/MyTrain_XNet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Z7FC3Z9j0Z2y0cpfGUyl1WPalT" />
   <component name="PropertiesComponent">
@@ -54,8 +50,16 @@
       <updated>1584182098781</updated>
       <workItem from="1584182146489" duration="3609000" />
       <workItem from="1584200610668" duration="106000" />
-      <workItem from="1584234364893" duration="2520000" />
+      <workItem from="1584234364893" duration="2766000" />
     </task>
+    <task id="LOCAL-00001" summary="modify the README.md">
+      <created>1584237032172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584237032172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify the README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify the README.md" />
   </component>
 </project>

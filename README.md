@@ -5,7 +5,7 @@ We modify it into more general binary segmentation applications, like **salient 
 
 # Usage
 
-1. Flowing this [instructions]() and configuring your virtual environment with python 3, Keras 2.2.2, and Tensorflow-gpu 1.4.1.
+1. Flowing this [instructions](https://github.com/GewelsJI/UNet_Family/blob/master/README_UNetPlusPlus.md) and configuring your virtual environment with python 3, Keras 2.2.2, and Tensorflow-gpu 1.4.1.
 
 2. Training:
     
@@ -25,6 +25,7 @@ We modify it into more general binary segmentation applications, like **salient 
 - UNet-like models with PyTorch
     
     - [Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets)
+    - TODO: modify the pytorch-based code to SOD applications
 
 - Paper collection and implementation of UNet-related model
     - [UNet-family](https://github.com/ShawnBIT/UNet-family)
